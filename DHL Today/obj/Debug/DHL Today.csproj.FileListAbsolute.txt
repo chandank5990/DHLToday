@@ -1,0 +1,26 @@
+W:\Software\Dummy\DHL Today\DHL Today\bin\DHL Today.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\DHL Today.pdb
+W:\Software\Dummy\DHL Today\DHL Today\bin\AjaxControlToolkit.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\AjaxMin.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\itextsharp.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\NPOI.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\PdfSharp.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\PQScan.PDFToImage.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\Spire.License.dll
+W:\Software\Dummy\DHL Today\DHL Today\bin\Spire.Pdf.dll
+W:\Software\Dummy\DHL Today\DHL Today\obj\Debug\DHL Today.csprojResolveAssemblyReference.cache
+W:\Software\Dummy\DHL Today\DHL Today\obj\Debug\DHL Today.dll
+W:\Software\Dummy\DHL Today\DHL Today\obj\Debug\DHL Today.pdb
+D:\CSK\DHL Today\DHL Today\bin\DHL Today.dll
+D:\CSK\DHL Today\DHL Today\bin\DHL Today.pdb
+D:\CSK\DHL Today\DHL Today\bin\AjaxControlToolkit.dll
+D:\CSK\DHL Today\DHL Today\bin\AjaxMin.dll
+D:\CSK\DHL Today\DHL Today\bin\itextsharp.dll
+D:\CSK\DHL Today\DHL Today\bin\NPOI.dll
+D:\CSK\DHL Today\DHL Today\bin\PdfSharp.dll
+D:\CSK\DHL Today\DHL Today\bin\PQScan.PDFToImage.dll
+D:\CSK\DHL Today\DHL Today\bin\Spire.License.dll
+D:\CSK\DHL Today\DHL Today\bin\Spire.Pdf.dll
+D:\CSK\DHL Today\DHL Today\obj\Debug\DHL Today.csprojResolveAssemblyReference.cache
+D:\CSK\DHL Today\DHL Today\obj\Debug\DHL Today.dll
+D:\CSK\DHL Today\DHL Today\obj\Debug\DHL Today.pdb
